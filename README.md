@@ -10,7 +10,7 @@ Repositorio del módulo de Base de datos de 1º de DAM. Este módulo tendrá los
     <a href="https://github.com/Olmedo30/BaseDatos-02-2023-2024">Diseño Conceptual</a>
   </li>
   <li>
-    <a href="">Diseño Relacional</a>
+    <a href="https://github.com/Olmedo30/BaseDatos-03-2023-2024">Diseño Relacional</a>
   </li>
   <li>
     <a href="">Diseño Físico</a>
