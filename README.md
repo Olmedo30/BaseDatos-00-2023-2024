@@ -25,3 +25,4 @@ Repositorio del módulo de Base de datos de 1º de DAM. Este módulo tendrá los
     <a href="">Programación de bases de datos relacionales</a>
   </li>
 </ol>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
