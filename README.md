@@ -2,6 +2,7 @@
 Repositorio del módulo de Base de datos de 1º de DAM. Este módulo tendrá los siguientes apartados o unidades teóricas:
 
 <h2>Contenidos</h2>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <ol>
   <li>
     <a href="https://github.com/Olmedo30/BaseDatos-01-2023-2024">Sistemas de almacenamiento de la Información</a>
@@ -25,4 +26,4 @@ Repositorio del módulo de Base de datos de 1º de DAM. Este módulo tendrá los
     <a href="">Programación de bases de datos relacionales</a>
   </li>
 </ol>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
