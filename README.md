@@ -17,7 +17,7 @@ Repositorio del módulo de Base de datos de 1º de DAM. Este módulo tendrá los
     <a href="https://github.com/Olmedo30/BaseDatos-04-2023-2024">Diseño Físico</a>
   </li>
   <li>
-    <a href="">Consultas en SQL</a>
+    <a href="https://github.com/Olmedo30/BaseDatos-05-2023-2024">Consultas en SQL</a>
   </li>
   <li>
     <a href="">INSERT, UPDATE, DELETE</a>
