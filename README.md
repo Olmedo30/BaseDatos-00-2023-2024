@@ -20,7 +20,7 @@ Repositorio del módulo de Base de datos de 1º de DAM. Este módulo tendrá los
     <a href="https://github.com/Olmedo30/BaseDatos-05-2023-2024">Consultas en SQL</a>
   </li>
   <li>
-    <a href="">INSERT, UPDATE, DELETE</a>
+    <a href="https://github.com/Olmedo30/BaseDatos-06-2023-2024">INSERT, UPDATE, DELETE</a>
   </li>
   <li>
     <a href="">Programación de bases de datos relacionales</a>
